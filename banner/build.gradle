@@ -4,7 +4,7 @@ version = "1.4.10"
 android {
     compileSdkVersion 28
     defaultConfig {
-        minSdkVersion 23
+        minSdkVersion 19
         targetSdkVersion 28
         versionCode 41
         versionName version
